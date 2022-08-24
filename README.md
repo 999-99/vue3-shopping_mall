@@ -30,14 +30,24 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
-![image-20220824155902181](C:\Users\瑞瑆\AppData\Roaming\Typora\typora-user-images\image-20220824155902181.png)
+![image-20220824155902181](G:\Project\vue-shopping_mall\READEME-img\image-20220824155902181.png)
 
-![image-20220824155926757](C:\Users\瑞瑆\AppData\Roaming\Typora\typora-user-images\image-20220824155926757.png)
 
-![image-20220824155958372](C:\Users\瑞瑆\AppData\Roaming\Typora\typora-user-images\image-20220824155958372.png)
 
-![image-20220824160055380](C:\Users\瑞瑆\AppData\Roaming\Typora\typora-user-images\image-20220824160055380.png)
+![image-20220824155926757](G:\Project\vue-shopping_mall\READEME-img\image-20220824155926757.png)
 
-![image-20220824160115493](C:\Users\瑞瑆\AppData\Roaming\Typora\typora-user-images\image-20220824160115493.png)
 
-![image-20220824160150934](C:\Users\瑞瑆\AppData\Roaming\Typora\typora-user-images\image-20220824160150934.png)
+
+![image-20220824155958372](G:\Project\vue-shopping_mall\READEME-img\image-20220824155958372.png)
+
+
+
+![image-20220824160055380](G:\Project\vue-shopping_mall\READEME-img\image-20220824160055380.png)
+
+
+
+![image-20220824160115493](G:\Project\vue-shopping_mall\READEME-img\image-20220824160115493.png)
+
+
+
+![image-20220824160150934](G:\Project\vue-shopping_mall\READEME-img\image-20220824160150934.png)
